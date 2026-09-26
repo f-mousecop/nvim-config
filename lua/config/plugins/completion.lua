@@ -35,7 +35,7 @@ return {
       },
 
       -- (Default) Only show the documentation popup when manually triggered
-      completion = { documentation = { auto_show = false } },
+      completion = { documentation = { auto_show = true } },
 
 
       -- (Default) Rust fuzzy matcher for typo resistance and significantly better performance
