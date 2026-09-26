@@ -1,0 +1,3 @@
+# Neovim temporary files
+*.swp
+*.swo
