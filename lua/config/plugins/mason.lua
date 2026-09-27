@@ -12,7 +12,12 @@ return {
     },
     opts = {
       ensure_installed = {
-	"lua_ls",
+        "lua_ls",
+        "astro",
+        "ts_ls",
+        "html",
+        "cssls",
+        "jsonls",
       },
     },
   },
